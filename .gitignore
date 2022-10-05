@@ -1,0 +1,5 @@
+*.zip
+Time-Series-Analysis-with-Python-Cookbook-main/
+venv/
+*.idea/
+~/.config/
